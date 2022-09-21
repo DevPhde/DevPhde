@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 
-- 🌱 Estudando: HTML5, CSS e javascript
+- 🌱 Estudando: HTML5, CSS e Javascript
 
 <!--
  <div align="start">
