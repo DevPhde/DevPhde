@@ -1,8 +1,10 @@
-### Hello World! 👋
+### Olá, <br/> Acesse o link abaixo para ser redirecionado ao meu novo GitHub =)👋
 
+<!-- - 🌱 Estudando: HTML5, CSS e Javascript <br/> --!>
 
-- 🌱 Estudando: HTML5, CSS e Javascript
+<a href="https://github.com/DevPHD">Click Aqui!!</a>
 
+<!--
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPhde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhde&layout=compact&langs_count=7&theme=dracula"/>
@@ -22,3 +24,4 @@
     <img align="left" height="135em" alt="BAN_2" src="https://cdn.discordapp.com/attachments/1020599652724248672/1020860778741497886/animesher.com_nanatsu-no-taizai-ban-gif-1305305.gif">
     
   </div>
+  --!>
