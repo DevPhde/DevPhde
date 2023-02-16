@@ -1,6 +1,6 @@
-### Olá, <br/> Por motivos pessoais migrei para outra conta do github. 👋
+### Olá, Bem vindo(a) ao meu Portfólio. 👋
 
-<!-- - 🌱 Estudando: HTML5, CSS e Javascript <br/> --!>
+- 🌱 Learning -> HTML5, CSS, Javascript, React,Node.js(Express), MongoDB, SQL, BootStrap, TailWind e TypeScript<br/> 
 
 <a href="https://github.com/DevPHD">Novo Portfólio =D</a>
 
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPhde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPhde&layout=compact&langs_count=7&theme=dracula"/>
   </div>
- <!--
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,4 +24,4 @@
     <img align="left" height="135em" alt="BAN_2" src="https://cdn.discordapp.com/attachments/1020599652724248672/1020860778741497886/animesher.com_nanatsu-no-taizai-ban-gif-1305305.gif">
     
   </div>
-  --!>
+
