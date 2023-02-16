@@ -2,7 +2,7 @@
 
 - 🌱 Learning -> HTML5, CSS, Javascript, React,Node.js(Express), MongoDB, SQL, BootStrap, TailWind e TypeScript<br/> 
 
-<a href="https://github.com/DevPHD">Novo Portfólio =D</a>
+<a href="https://github.com/DevPHD">Migrando aos poucos para um novo portfólio. =P</a>
 
  <hr/>
  <div>
