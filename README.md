@@ -1,8 +1,8 @@
 ### Olá, Bem vindo(a) ao meu Portfólio. 👋
 
-- 🌱 Learning -> HTML5, CSS, Javascript, React,Node.js(Express), MongoDB, SQL, BootStrap, TailWind e TypeScript<br/> 
+- 🌱 Learning -> HTML5, CSS, Javascript, React,Node.js(Express), MongoDB, SQL, BootStrap, TailWind e TypeScript.<br/> 
 
-<a href="https://github.com/DevPHD">Migrando aos poucos para um novo portfólio. =P</a>
+<!-- <a href="https://github.com/DevPHD">Migrando aos poucos para um novo portfólio. =P</a> --!>
 
  <hr/>
  <div>
