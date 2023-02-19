@@ -35,9 +35,8 @@
  
 
   
-  <div align="center" style="display: flex" margin-left="500">
-    <img align="right" height="130" width="350" alt="BAN_1" src="https://cdn.discordapp.com/attachments/1020599652724248672/1020600098373259284/e23d45356baa2acffe70d757467af3e4c63335a9_hq.gif">
-    <img align="left" height="130" width="350" alt="BAN_2" src="https://cdn.discordapp.com/attachments/1020599652724248672/1020860778741497886/animesher.com_nanatsu-no-taizai-ban-gif-1305305.gif">
+  <div align="center">
+    <img align="center" height="200" width="500" alt="BAN_2" src="https://cdn.discordapp.com/attachments/1020599652724248672/1020860778741497886/animesher.com_nanatsu-no-taizai-ban-gif-1305305.gif">
     
   </div>
 
