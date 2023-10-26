@@ -3,28 +3,54 @@
 </h1>
 <b>I'm Diego Baumbach 🤗, FullStack Developer🧑‍💻 from Brazil.🏝️ </b>
 <br/><br/><br/>
--💼 Open To Work.🕵️‍♂️<br/>
--🌱Constant Learning
+🌱Constant Learning =)
 
 <div>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="REACT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="NODE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="MYSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="MONGODB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
-  <img align="center" alt="POSTGRESQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <div>
+    <h3>Techs and Frameworks</h3>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <hr>
+    <img align="center" alt="NODE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="REACT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img align="center" alt="NESTJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img align="center" alt="SEQUELIZE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    <hr>
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img align="center" alt="" height="40" width="50" src="https://github.com/DevPhde/DevPhde/assets/113299561/74cccb29-0752-4945-ac78-3833e8f3731f" />
+    <img align="center" alt="" height="40" width="70" src="https://github.com/DevPhde/DevPhde/assets/113299561/8fffb1db-6377-4a86-a61a-413981428f23" />
+    <hr>
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img align="center" alt="" height="40" width="50" src="https://github.com/DevPhde/DevPhde/assets/113299561/d6db3705-3447-4c07-9613-8f10e7ea660e" />
+    <hr>
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="" heigth="40" width="50" src="https://www.openlogic.com/sites/default/files/image/2020-05/image-blog-apacha-kafka.jpg">
+    <img align="center" alt="" heigth="60" width="90" src="https://github.com/DevPhde/DevPhde/assets/113299561/00eae5b6-8e58-49af-8157-c43e59c5c758">
+  </div>
+  <div>
+    <h3>Databases</h3>
+    <img align="center" alt="MYSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="MONGODB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
+    <img align="center" alt="POSTGRESQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img align="center" alt="REDIS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  </div>
+  
+  
   </br>
-  <img align="center" alt="REDIS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img align="center" alt="SEQUELIZE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="NESTJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
- </div>
+
+  
+  
+  
+  
+  </br>
+  
+
+</div>
   <br/>
   <br/>
   <div>
