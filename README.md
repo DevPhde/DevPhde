@@ -5,6 +5,13 @@
 <br/><br/><br/>
 🌱Constant Learning =)
 
+<br/><br/>
+Oi! Como você pode perceber, meu GitHub está mais embaralhado do que os fios atrás da minha mesa. E por quê? Bem, atualmente, estou enfrentando a selva do desenvolvimento como um desenvolvedor fullstack presencial, desembaraçando códigos e criando magia no mundo real. Recentemente, tentei a sorte para uma vaga de desenvolvedor backend (Spring Boot/NestJS). O resultado? Fui rejeitado mais rápido do que um bug aparece quando estou fazendo live demo...
+
+Aí, o que um dev emocionado faz? Começa a criar projetos usando essas tecnologias para mostrar que sabe das coisas. Resumindo a ópera, não passei nem para a fase técnica, e agora tenho um projeto microservice com 3 containers pela metade. Então, por favor, não repare na bagunça e desculpe o transtorno.
+
+Atenciosamente,<br/>
+eu.<br/>
 <div>
   <div>
     <h3>Techs and Frameworks</h3>
